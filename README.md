@@ -1,7 +1,5 @@
-I apologize in advance for not being organized. 
-
-The repos contain whatever has caught my fancy at the moment. 
-
+Hi! 
+I like doing fun things with neural networks. Here are my labours of love. 
 
 <!---
 agastyapatri/agastyapatri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
