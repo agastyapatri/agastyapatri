@@ -1,6 +1,6 @@
 Hi! 
 
-I like doing fun things with neural networks. Here are my labours of love. 
+Here are a few projects of mine
 
 <!---
 agastyapatri/agastyapatri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
